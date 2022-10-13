@@ -1,0 +1,5 @@
+C:\Users\vinic\Documents\Cursos\.NET - backup\SnakeGame\SnakeGame\SnakeGame.exe
+C:\Users\vinic\Documents\Cursos\.NET - backup\SnakeGame\SnakeGame\SnakeGame.dll
+C:\Users\vinic\Documents\Cursos\.NET - backup\SnakeGame\SnakeGame\SnakeGame.deps.json
+C:\Users\vinic\Documents\Cursos\.NET - backup\SnakeGame\SnakeGame\SnakeGame.runtimeconfig.json
+C:\Users\vinic\Documents\Cursos\.NET - backup\SnakeGame\SnakeGame\SnakeGame.pdb
